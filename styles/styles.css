@@ -4,11 +4,11 @@
     background-position: center; 
     background-repeat: no-repeat; 
     color: whitesmoke; 
-    padding: 100px; 
+    padding: 80px; 
     text-align: center; 
     opacity: 0.9;
     overflow: hidden;
-    font-size: 200px;
+    font-size: 25px;
     height: 60vh; /* Makes the header fill the entire viewport height */
     width: 100%; /* full width of the screen */
 
