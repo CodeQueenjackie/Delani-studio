@@ -1,0 +1,84 @@
+#background1{
+    background-image: url("../images/backgrounds/h_img.jpg"); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    color: whitesmoke; 
+    padding: 100px; 
+    text-align: center; 
+    opacity: 0.9;
+    overflow: hidden;
+    font-size: 200px;
+    height: 60vh; /* Makes the header fill the entire viewport height */
+    width: 100%; /* full width of the screen */
+
+
+}
+#background2{
+    color: black; 
+    text-align: center; 
+    opacity: 0.9;
+    overflow: hidden;
+    font-size: 25px;
+    height: 50vh;
+    width: 100%;
+    padding: 30px;  
+    margin: 20px;
+}
+
+h1{
+    font-size: 70px;
+    text-align: center;
+}
+#background3{
+    background-image: url("../images/backgrounds/c_image.jpg"); /* Adjust the path to your image */
+    background-size: cover; /* Scales the image to cover the entire header area */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Ensures the image doesn't repeat */
+    color: whitesmoke; /* Sets text color to contrast with the background */
+    padding: 100px; /* Adds some padding around the content */
+    text-align: center; /* Centers the text */
+    opacity: 0.9;
+    overflow: hidden;
+    font-size: 25px;
+    height: 70vh; /* Makes the header fill the entire viewport height */
+    width: 100%; /   
+}
+#wwd{
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+#portfolio{
+    margin-left:30 ;
+}
+#background4{
+    background-image: url("../images/backgrounds/s_image.jpg"); /* Adjust the path to your image */
+    background-size: cover; /* Scales the image to cover the entire header area */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Ensures the image doesn't repeat */
+    color: whitesmoke; /* Sets text color to contrast with the background */
+    padding: 100px; /* Adds some padding around the content */
+    text-align: center; /* Centers the text */
+    opacity: 0.9;
+    overflow: hidden;
+    font-size: 30px;
+    height: 50vh; /* Makes the header fill the entire viewport height */
+    width: 100%; /   
+}
+ .hidden{ 
+     display: none;
+ }
+ .portfolio-img{
+    margin: 10px;
+}
+#portfolio .row .col-md-3 {
+    padding: 10px; 
+}
+#icons{
+    text-align:center ;
+    padding: 10px;
+}
+h6{
+    text-align: center;
+}
